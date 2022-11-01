@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+oodles_smart_data*
+training_logs*
+data*
+trained_models*
